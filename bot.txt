@@ -1,0 +1,10 @@
+Telegram
+-----------------
+name: MyChatBot
+user: mcbuser_bot
+token: 564519375:AAFBQ4kQmldx4gQoP0iOMiJSJgKEbj_7EX4
+t.me/mcbuser_bot
+
+Dialogflow
+-----------------
+client access token = c148b7876c8a4b04a275e058eb46817b
