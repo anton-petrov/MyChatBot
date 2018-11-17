@@ -5,6 +5,11 @@ import logging
 
 telegram_token = ''
 dialogflow_token = ''
+
+with open(".credentials") as file:
+    for line in file:
+        exec(line)
+        
 # Токен API к Telegram
 updater = Updater(token=telegram_token)
 dispatcher = updater.dispatcher
